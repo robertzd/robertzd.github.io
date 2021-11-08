@@ -13,7 +13,7 @@
       
       <guid>https://robertzd.github.io/keys/</guid>
       <description>GPG gpg-PUBLIC-0x6FB7FF80E03A395C.asc
-SSH n/a</description>
+SSH id_rsa.pub</description>
     </item>
     
   </channel>
