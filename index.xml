@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Zahl Dybvad</title>
-    <link>https://robertzd.github.io/</link>
+    <link>https://robert.dybvad.net/</link>
     <description>Recent content on Robert Zahl Dybvad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://robertzd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://robert.dybvad.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Public Keys</title>
-      <link>https://robertzd.github.io/keys/</link>
+      <link>https://robert.dybvad.net/keys/</link>
       <pubDate>Mon, 08 Nov 2021 01:22:07 +0100</pubDate>
       
-      <guid>https://robertzd.github.io/keys/</guid>
+      <guid>https://robert.dybvad.net/keys/</guid>
       <description>GPG gpg-PUBLIC-0x6FB7FF80E03A395C.asc
 SSH id_rsa.pub</description>
     </item>
