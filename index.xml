@@ -5,7 +5,12 @@
     <link>https://robert.dybvad.net/</link>
     <description>Recent content on Robert Zahl Dybvad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://robert.dybvad.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Nov 2021 01:22:07 +0100</lastBuildDate>
+    
+	<atom:link href="https://robert.dybvad.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Public Keys</title>
       <link>https://robert.dybvad.net/keys/</link>
@@ -13,7 +18,8 @@
       
       <guid>https://robert.dybvad.net/keys/</guid>
       <description>GPG GPG-RobertZahlDybvad-0xC8459FBAD84709D1-Public.asc
-SSH SSH-RobertZahlDybvad-id_rsa.pub</description>
+SSH SSH-RobertZahlDybvad-id_rsa.pub
+ Last updated: 23.Nov 2022 </description>
     </item>
     
   </channel>
