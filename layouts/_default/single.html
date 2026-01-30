@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <article class="page-card">
+    <a class="back-link" href="{{ .Site.BaseURL }}">Home</a>
+    <h1>{{ .Title }}</h1>
+    <div class="content-body">
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}

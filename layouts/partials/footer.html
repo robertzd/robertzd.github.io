@@ -1,0 +1,4 @@
+<footer class="site-footer">
+  {{- $copyright := .Site.Params.extra.copyrightText -}}
+  <p>&copy; {{ now.Year }} {{ with $copyright }}{{ . | markdownify }}{{ else }}{{ .Site.Params.author }}{{ end }}</p>
+</footer>
