@@ -1,0 +1,66 @@
+## Basic Configuration
+
+baseurl = "https://robert.dybvad.net/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Robert Zahl Dybvad"
+title = "Robert Zahl Dybvad"
+
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+#googleAnalytics = "XYZ"
+enableRobotsTXT = false
+
+## Site Settings
+[params]
+author = "Robert Zahl Dybvad"
+intro = "Cybersecurity engineer and privacy advocate"
+authorimage = "RobertDybvad.jpg"
+dateformat = "2. Jan 2006"
+keysUpdated = "22. Apr 2024"
+
+## Site Meta Settings
+[params.meta]
+# description = "Robert Zahl Dybvad"
+# keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[[params.socialLinks]]
+name = "GitHub"
+url = "https://github.com/robertzd"
+
+[[params.socialLinks]]
+name = "LinkedIn"
+url = "https://linkedin.com/in/robertzahldybvad"
+
+[[params.socialLinks]]
+name = "Mastodon"
+url = "https://infosec.exchange/@robertdybvad"
+
+[[params.socialLinks]]
+name = "Signal"
+url = "https://signal.me/#eu/88cEsSjE-3Aa-jXCM1IWYyzFCW7dhhPF4aXhv-vwDIgSpcJW_ldKla4Jg8Ymp2u0"
+
+[[params.publicKeys]]
+name = "GPG"
+url = "/GPG-RobertZahlDybvad-0xC8459FBAD84709D1-Public.asc"
+
+[[params.publicKeys]]
+name = "SSH"
+url = "/SSH-RobertZahlDybvad-id_rsa.pub"
+
+## Extras
+[params.extra]
+copyrightText = "Robert Zahl Dybvad [Some Rights Reserved](https://creativecommons.org/licenses/by/4.0/deed.en)."
+poweredby = true
+highlightjs = false
+socialmarkup = false
+toc = false
+displayrssicon = false
