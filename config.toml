@@ -12,7 +12,7 @@ title = "Robert Zahl Dybvad"
 author = "Robert Zahl Dybvad"
 intro = "Cybersecurity engineer and privacy advocate"
 authorimage = "RobertDybvad.jpg"
-keysUpdated = "22. Apr 2024"
+keysUpdated = "2. Feb 2026"
 
 ## Social Accounts
 [[params.socialLinks]]
@@ -37,7 +37,8 @@ url = "/GPG-RobertZahlDybvad-0xC8459FBAD84709D1-Public.asc"
 
 [[params.publicKeys]]
 name = "SSH"
-url = "/SSH-RobertZahlDybvad-id_rsa.pub"
+url = "/SSH-RobertZahlDybvad-ed25519.pub"
+#url = "/SSH-RobertZahlDybvad-id_rsa.pub"
 
 ## Extras
 [params.extra]
